@@ -22,11 +22,12 @@ Monte Carlo radiative transfer code `MCFOST
 <http://ipag-old.osug.fr/~pintec/mcfost/docs/html/overview.html>`_.
 
 I have applied these techniques, for example, to model the `disc around TW Hya
-<https://ui.adsabs.harvard.edu/abs/2019MNRAS.484L.130M/abstract>`_, and study
+<https://ui.adsabs.harvard.edu/abs/2019MNRAS.484L.130M/abstract>`_, and to study
 the effect of `stellar flybys
 <https://ui.adsabs.harvard.edu/abs/2019MNRAS.483.4114C/abstract>`_ on
 `protoplanetary discs
-<https://ui.adsabs.harvard.edu/abs/2020MNRAS.491..504C/abstract>`_.
+<https://ui.adsabs.harvard.edu/abs/2020MNRAS.491..504C/abstract>`_ in work led
+by `Nicolas Cuello <https://cuellonicolas.wixsite.com/astrophysics>`_.
 
 Code
 ----
