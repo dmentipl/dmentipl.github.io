@@ -1,4 +1,4 @@
-.. title: index
+.. hidetitle: True
 .. slug: index
 .. date: 2019-12-02 02:50:56 UTC
 .. tags: 
@@ -6,9 +6,6 @@
 .. link: 
 .. description: 
 .. type: text
-
-Daniel Mentiplay
-================
 
 About
 -----
