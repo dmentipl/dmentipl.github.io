@@ -1,3 +1,3 @@
 # README
 
-My personal website: <dmentipl.github.io>
+My personal website: <https://dmentipl.github.io>
