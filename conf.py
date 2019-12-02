@@ -25,7 +25,7 @@ SITE_URL = "https://dmentipl.github.io/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
 BLOG_EMAIL = "daniel.mentiplay@monash.edu"
-BLOG_DESCRIPTION = "Daniel Mentiplay's personal website."  # (translatable)
+BLOG_DESCRIPTION = "PhD student at the School of Physics and Astronomy at Monash University."  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -140,6 +140,9 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/index.html", "Home"),
+        ("https://github.com/dmentipl", "GitHub"),
+        ("https://orcid.org/0000-0002-5526-8798", "ORCID"),
+        ("https://scholar.google.com.au/citations?user=BNWvllgAAAAJ", "Scholar"),
     ),
 }
 
@@ -151,7 +154,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootstrap4"
+THEME = "hyde"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
