@@ -143,15 +143,14 @@ NAVIGATION_LINKS = {
         ("https://github.com/dmentipl", "GitHub"),
         ("https://orcid.org/0000-0002-5526-8798", "ORCID"),
         ("https://scholar.google.com.au/citations?user=BNWvllgAAAAJ", "Scholar"),
+        ("https://figshare.com/authors/Daniel_Mentiplay/7505300", "figshare"),
     ),
 }
 
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
 # although themes may not always support them. (translatable)
 # (Bootstrap 4: right-side of navbar, Bootblog 4: right side of title)
-NAVIGATION_ALT_LINKS = {
-    DEFAULT_LANG: ()
-}
+NAVIGATION_ALT_LINKS = {DEFAULT_LANG: ()}
 
 # Name of the theme to use.
 THEME = "hyde"
@@ -179,7 +178,7 @@ THEME_CONFIG = {
         # Strip HTML from featured post text.
         'featured_strip_html': False,
         # Contents of the sidebar, If empty, the sidebar is not displayed.
-        'sidebar': ''
+        'sidebar': '',
     }
 }
 
@@ -548,9 +547,7 @@ INDEX_PATH = "blog"
 
 # Optional HTML that displayed on “main” blog index.html files.
 # May be used for a greeting. (translatable)
-FRONT_INDEX_HEADER = {
-    DEFAULT_LANG: ''
-}
+FRONT_INDEX_HEADER = {DEFAULT_LANG: ''}
 
 # Create per-month archives instead of per-year
 # CREATE_MONTHLY_ARCHIVE = False
@@ -959,8 +956,8 @@ CONTENT_FOOTER_FORMATS = {
             "email": BLOG_EMAIL,
             "author": BLOG_AUTHOR,
             "date": time.gmtime().tm_year,
-            "license": LICENSE
-        }
+            "license": LICENSE,
+        },
     )
 }
 
@@ -1082,7 +1079,11 @@ PRETTY_URLS = True
 #       with the MarkdownExtension class and should not be added here.
 # Defaults are markdown.extensions.(fenced_code|codehilite|extra)
 # markdown.extensions.meta is required for Markdown metadata.
-MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.codehilite', 'markdown.extensions.extra']
+MARKDOWN_EXTENSIONS = [
+    'markdown.extensions.fenced_code',
+    'markdown.extensions.codehilite',
+    'markdown.extensions.extra',
+]
 
 # Options to be passed to markdown extensions (See https://python-markdown.github.io/reference/)
 # Default is {} (no config at all)

@@ -1,10 +1,10 @@
 .. hidetitle: True
 .. slug: index
 .. date: 2019-12-02 02:50:56 UTC
-.. tags: 
-.. category: 
-.. link: 
-.. description: 
+.. tags:
+.. category:
+.. link:
+.. description:
 .. type: text
 
 Research
@@ -54,3 +54,9 @@ Publications
 
 My full publication list is available on
 `ORCID <https://orcid.org/0000-0002-5526-8798>`_.
+
+Data
+----
+
+Data sets relating to my work are available on `figshare
+<https://figshare.com/authors/Daniel_Mentiplay/7505300>`_.
