@@ -84,15 +84,26 @@ software projects. You may find my public `dotfiles
 <https://github.com/dmentipl/dotfiles>`__ for setting up a macOS machine from
 scratch useful.
 
-Contact
--------
+----
 
-My email address is `daniel.mentiplay@monash.edu
-<mailto:daniel.mentiplay@monash.edu>`__.
+.. raw:: html
 
-I have an online presence at:
-
-* `GitHub <https://github.com/dmentipl>`__
-* `ORCID <https://orcid.org/0000-0002-5526-8798>`__
-* `Google Scholar <https://scholar.google.com.au/citations?user=BNWvllgAAAAJ>`__
-* `figshare <https://figshare.com/authors/Daniel_Mentiplay/7505300>`__
+  <link rel="stylesheet" href="//use.fontawesome.com/releases/v5.0.0/css/all.css">
+  <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+  <center>
+    <a href="mailto:daniel.mentiplay@monash.edu">
+      <i class="fa fa-envelope-square fa-3x"></i>
+    </a>
+    <a href="https://github.com/dmentipl">
+      <i class="fab fa-github-square fa-3x"></i>
+    </a>
+    <a href="https://orcid.org/0000-0002-5526-8798">
+      <i class="ai ai-orcid-square ai-3x"></i>
+    </a>
+    <a href="https://scholar.google.com.au/citations?user=BNWvllgAAAAJ">
+      <i class="ai ai-google-scholar-square ai-3x"></i>
+    </a>
+    <a href="https://figshare.com/authors/Daniel_Mentiplay/7505300">
+      <i class="ai ai-figshare-square ai-3x"></i>
+    </a>
+  </center>

@@ -139,11 +139,7 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/index.html", "Home"),
-        ("https://github.com/dmentipl", "GitHub"),
-        ("https://orcid.org/0000-0002-5526-8798", "ORCID"),
-        ("https://scholar.google.com.au/citations?user=BNWvllgAAAAJ", "Scholar"),
-        ("https://figshare.com/authors/Daniel_Mentiplay/7505300", "figshare"),
+        # ("/index.html", "Home"),
     ),
 }
 
