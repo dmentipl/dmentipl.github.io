@@ -11,7 +11,7 @@ Instructions to update website.
 1. Checkout src branch with `git checkout src`.
 2. Make changes.
 3. Preview changes with `nikola auto -b`.
-4. Commit changes to src.
+4. Commit changes to src, and push changes to GitHub.
 5. Deploy to GitHub pages with `nikola github_deploy`.
 
 Requirements
