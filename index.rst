@@ -1,10 +1,11 @@
+.. title: dmentipl
 .. hidetitle: True
 .. slug: index
-.. date: 2020-07-06 00:00:00 UTC
+.. date: 2020-07-07 00:00:00 UTC
 .. tags:
 .. category:
 .. link:
-.. description:
+.. description: PhD student at the School of Physics and Astronomy at Monash University.
 .. type: text
 
 .. image:: /images/profile.jpeg
