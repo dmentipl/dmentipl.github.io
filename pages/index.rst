@@ -7,6 +7,11 @@
 .. description:
 .. type: text
 
+.. image:: /images/profile.jpeg
+  :width: 200
+
+|
+
 About
 -----
 
@@ -14,7 +19,7 @@ I am a computational astrophysics PhD student at the School of Physics and
 Astronomy at Monash University. I use numerical simulations to study
 `protoplanetary discs
 <https://en.wikipedia.org/wiki/Protoplanetary_disk>`__, the
-birthplace of planets, and I write open source scientific software.
+birthplace of planets. I also write open source scientific software.
 
 Research
 --------
