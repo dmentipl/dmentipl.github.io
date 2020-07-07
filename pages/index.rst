@@ -1,6 +1,6 @@
 .. hidetitle: True
 .. slug: index
-.. date: 2020-07-07 02:50:56 UTC
+.. date: 2020-07-06 00:00:00 UTC
 .. tags:
 .. category:
 .. link:
