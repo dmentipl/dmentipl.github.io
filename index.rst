@@ -13,8 +13,8 @@ About
 I am a computational astrophysics PhD student at the School of Physics and
 Astronomy at Monash University. I use numerical simulations to study
 `protoplanetary discs
-<https://en.wikipedia.org/wiki/Protoplanetary_disk>`__—the
-birthplace of planets.
+<https://en.wikipedia.org/wiki/Protoplanetary_disk>`__, the
+birthplace of planets, and I write open source scientific software.
 
 Research
 --------
@@ -66,7 +66,7 @@ For example, I am the main author of `Plonk
 analysis and visualization tool written in Python. See the paper at `JOSS
 <https://joss.theoj.org/papers/10.21105/joss.01884#>`__.
 
-Other Python packages for working with Phantom include:
+Other Python packages for working with Phantom that I have written include:
 
 * `phantom-config <https://github.com/dmentipl/phantom-config>`__ — read,
   modify, convert, and write Phantom configuration files;
