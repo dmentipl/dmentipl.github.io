@@ -1,8 +1,10 @@
-# Daniel Mentiplay (dmentipl)
+Daniel Mentiplay (dmentipl)
+===========================
 
-My personal website, available at <https://dmentipl.github.io>.
+My personal website, available at [https://dmentipl.github.io](https://dmentipl.github.io).
 
-## Usage
+Usage
+-----
 
 Instructions to update website.
 
@@ -11,3 +13,12 @@ Instructions to update website.
 3. Preview changes with `nikola auto -b`.
 4. Commit changes to src.
 5. Deploy to GitHub pages with `nikola github_deploy`.
+
+Requirements
+------------
+
+Python and Nikola.
+
+```bash
+python -m pip install nikola[extras]
+```
