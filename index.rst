@@ -97,7 +97,7 @@ scratch useful.
   <link rel="stylesheet" href="//use.fontawesome.com/releases/v5.0.0/css/all.css">
   <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
   <center>
-    <a href="mailto:daniel.mentiplay@monash.edu">
+    <a href="mailto:d.mentiplay@gmail.com">
       <i class="fa fa-envelope-square fa-3x"></i>
     </a>
     <a href="https://github.com/dmentipl">
