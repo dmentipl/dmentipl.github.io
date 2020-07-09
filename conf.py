@@ -24,7 +24,7 @@ SITE_URL = "https://dmentipl.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
-BLOG_EMAIL = "daniel.mentiplay@monash.edu"
+BLOG_EMAIL = "d.mentiplay@gmail.com"
 BLOG_DESCRIPTION = "PhD student at the School of Physics and Astronomy at Monash University."  # (translatable)
 
 # Nikola is multilingual!
@@ -919,7 +919,7 @@ FEED_LINKS_APPEND_QUERY = False
 
 # A HTML fragment describing the license, for the sidebar.
 # (translatable)
-LICENSE = ""
+LICENSE = 'Licensed under <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons</a>'
 # I recommend using the Creative Commons' wizard:
 # https://creativecommons.org/choose/
 # LICENSE = """
@@ -930,7 +930,12 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
+CONTENT_FOOTER = """
+&copy; {date} <a href="mailto:{email}">{author}</a> -
+{license} -
+Icons from <a href="https://fontawesome.com/">Font Awesome</a> and <a href="https://jpswalsh.github.io/academicons/">Academicons</a> -
+Powered by <a href="https://getnikola.com" rel="nofollow">Nikola</a>
+"""
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
