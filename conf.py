@@ -919,7 +919,7 @@ FEED_LINKS_APPEND_QUERY = False
 
 # A HTML fragment describing the license, for the sidebar.
 # (translatable)
-LICENSE = 'Licensed under <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons</a>'
+LICENSE = 'Licensed under <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons</a>'
 # I recommend using the Creative Commons' wizard:
 # https://creativecommons.org/choose/
 # LICENSE = """
