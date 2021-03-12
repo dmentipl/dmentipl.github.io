@@ -25,7 +25,7 @@ SITE_URL = "https://dmentipl.github.io/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
 BLOG_EMAIL = "d.mentiplay@gmail.com"
-BLOG_DESCRIPTION = "PhD student at the School of Physics and Astronomy at Monash University."  # (translatable)
+BLOG_DESCRIPTION = "Data scientist at the Bureau of Meteorology"  # (translatable)
 
 # Nikola is multilingual!
 #
