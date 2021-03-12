@@ -5,7 +5,7 @@
 .. tags:
 .. category:
 .. link:
-.. description: PhD student at the School of Physics and Astronomy at Monash University.
+.. description:
 .. type: text
 
 .. image:: /images/profile.jpeg
@@ -16,21 +16,26 @@
 About
 -----
 
-I am a computational astrophysics PhD student at the School of Physics and
-Astronomy at Monash University. I use numerical simulations to study
-`protoplanetary discs
-<https://en.wikipedia.org/wiki/Protoplanetary_disk>`__, the
-birthplace of planets. I also write open source scientific software.
+I work at the Bureau of Meteorology on post-processing `NWP
+<https://en.wikipedia.org/wiki/Numerical_weather_prediction>`__ data.
+
+I completed my PhD in astrophysics at the School of Physics and
+Astronomy at Monash University, where I used numerical
+simulations to study `protoplanetary discs
+<https://en.wikipedia.org/wiki/Protoplanetary_disk>`__, the birthplace of
+planets.
+
+I like to write open source scientific software in Python, Julia, and Fortran.
 
 Research
 --------
 
-I work with `Daniel Price
+I have worked with `Daniel Price
 <https://research.monash.edu/en/persons/daniel-price>`__ and `Christophe Pinte
 <https://research.monash.edu/en/persons/christophe-pinte>`__ on hydrodynamical
 and radiative transfer modelling of protoplanetary discs.
 
-We perform global dust-gas smoothed particle hydrodynamics simulations of
+We performed global dust-gas smoothed particle hydrodynamics simulations of
 protoplanetary discs with embedded planets using `Phantom
 <http://phantomsph.bitbucket.io/>`__, and post-process these simulations with
 the Monte Carlo radiative transfer code `MCFOST
@@ -45,7 +50,9 @@ study the effect of `stellar flybys
 <https://ui.adsabs.harvard.edu/abs/2019MNRAS.483.4114C/abstract>`__ on
 `protoplanetary discs
 <https://ui.adsabs.harvard.edu/abs/2020MNRAS.491..504C/abstract>`__ in work led
-by `Nicolas Cuello <https://cuellonicolas.wixsite.com/astrophysics>`__.
+by `Nicolas Cuello <https://cuellonicolas.wixsite.com/astrophysics>`__. I also
+developed and tested a method to model `multiple dust species in SPH
+<https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.3806M/abstract>`__.
 
 My full publication list is available on
 `ORCID <https://orcid.org/0000-0002-5526-8798>`__.
@@ -53,7 +60,7 @@ My full publication list is available on
 Data
 ----
 
-I make datasets relating to my work available on `figshare
+I have made datasets relating to my work available on `figshare
 <https://figshare.com/authors/Daniel_Mentiplay/7505300>`__.
 
 Of particular interest may be the two datasets relating to the TW Hya work: one
@@ -65,7 +72,7 @@ and the other contains output from `MCFOST post-processed models
 Software
 --------
 
-I write software in Python and (modern) Fortran.
+I write software in Python, Julia, and (modern) Fortran.
 
 For example, I am the main author of `Plonk
 <https://github.com/dmentipl/plonk>`__, a smoothed particle hydrodynamics
@@ -87,8 +94,8 @@ package for analysis and visualization of MCFOST output.
 
 See my `GitHub profile <https://github.com/dmentipl>`__ for all my open source
 software projects. You may find my public `dotfiles
-<https://github.com/dmentipl/dotfiles>`__ for setting up a macOS machine from
-scratch useful.
+<https://github.com/dmentipl/dotfiles>`__ for setting up a macOS/Linux machine
+from scratch useful.
 
 ----
 
