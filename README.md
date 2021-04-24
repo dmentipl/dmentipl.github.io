@@ -36,7 +36,7 @@ open _build/dirhtml/index.html
 
 ### Deploy
 
-A GitHub Actions workflow is used to deploy website. Any changes pushed to the master branch will automatically rebuild the website.
+A GitHub Actions workflow is used to deploy website. Any changes pushed to the main branch will automatically rebuild the website.
 
 See [.github/workflows/deploy.yml](.github/workflows/deploy.yml) for details.
 
