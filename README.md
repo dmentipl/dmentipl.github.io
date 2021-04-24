@@ -23,7 +23,7 @@ pip install -r requirements.txt
 Make changes then build the HTML with Sphinx.
 
 ```bash
-make html
+make dirhtml
 ```
 
 ### View
@@ -31,7 +31,7 @@ make html
 Inspect the output in a web browser.
 
 ```bash
-open _build/html/index.html
+open _build/dirhtml/index.html
 ```
 
 ### Deploy
