@@ -4,4 +4,4 @@
 :author: Daniel Mentiplay
 ```
 
-Content goes here. E.g. hello world.
+Here's my new website built in Python with Sphinx, ablog, and MyST using the pydata-sphinx-theme. It's based on Chris Holdgraf's website: <https://predictablynoisy.com/>. The old one was built using the Python static site generator Nikola.
