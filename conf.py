@@ -58,6 +58,10 @@ html_theme = 'pydata_sphinx_theme'
 html_theme_options = {
     "search_bar_text": "Search this site...",
     "search_bar_position": "navbar",
+    "external_links": [
+        {"name": "Recipes", "url": "https://dmentipl.github.io/recipes/"},
+    ],
+    "show_prev_next": False
 }
 
 # html_favicon = "_static/favicon.ico"
@@ -69,10 +73,6 @@ html_static_path = ['_static']
 # html_extra_path = ["feed.xml"]
 html_sidebars = {
     "index": ["template.html"],
-    "about": ["template.html"],
-    "research": ["template.html"],
-    "software": ["template.html"],
-    "contact": ["template.html"],
     "posts": ['tagcloud.html', 'archives.html'],
     "posts/**": ['postcard.html', 'recentposts.html', 'archives.html'],
 }
