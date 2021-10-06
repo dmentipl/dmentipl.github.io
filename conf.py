@@ -59,6 +59,7 @@ html_theme_options = {
     "search_bar_text": "Search this site...",
     "search_bar_position": "navbar",
     "external_links": [
+        {"name": "Cocktails", "url": "https://dmentipl.github.io/cocktails/"},
         {"name": "Recipes", "url": "https://dmentipl.github.io/recipes/"},
     ],
     "show_prev_next": False
