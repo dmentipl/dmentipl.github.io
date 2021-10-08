@@ -38,7 +38,7 @@ I'm interested in science, software, and combining them in reproducible and open
 
 ## Contact
 
-- [Email](mailto:daniel.mentiplay@protonmail.com)
+- <a href = "mailto:daniel.mentiplay@protonmail.com">Email</a>
 - [GitHub](https://github.com/dmentipl)
 - [ORCID](https://orcid.org/0000-0002-5526-8798)
 - [Scholar](https://scholar.google.com.au/citations?user=BNWvllgAAAAJ)
