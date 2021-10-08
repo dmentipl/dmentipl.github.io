@@ -2,3 +2,4 @@ ablog
 myst_nb
 pydata-sphinx-theme
 sphinx
+sphinx-autobuild
