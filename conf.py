@@ -21,7 +21,6 @@ project = 'dmentipl'
 copyright = '2021, Daniel Mentiplay'
 author = 'Daniel Mentiplay'
 
-
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
@@ -47,7 +46,6 @@ exclude_patterns = [
     "README.md",
 ]
 
-
 # -- Options for HTML output -------------------------------------------------
 
 # The theme to use for HTML and HTML Help pages. See the documentation for
@@ -56,16 +54,15 @@ exclude_patterns = [
 html_theme = 'pydata_sphinx_theme'
 
 html_theme_options = {
-    "search_bar_text": "Search this site...",
-    "search_bar_position": "navbar",
+    "search_bar_text": "Search...",
     "external_links": [
         {"name": "Cocktails", "url": "https://dmentipl.github.io/cocktails/"},
         {"name": "Recipes", "url": "https://dmentipl.github.io/recipes/"},
     ],
-    "show_prev_next": False
+    "footer_items": ["copyright", "last-updated"],
+    "navbar_end": ["search-field"],
+    "show_prev_next": False,
 }
-
-# html_favicon = "_static/favicon.ico"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -77,6 +74,9 @@ html_sidebars = {
     "posts": ['tagcloud.html', 'archives.html'],
     "posts/**": ['postcard.html', 'recentposts.html', 'archives.html'],
 }
+html_last_updated_fmt = '%b %d, %Y'
+
+# Blog
 blog_baseurl = "https://dmentipl.github.io"
 blog_title = "Daniel Mentiplay"
 blog_path = "posts"
