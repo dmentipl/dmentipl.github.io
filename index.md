@@ -14,7 +14,7 @@ I'm interested in science, software, and combining them in reproducible and open
 
 - **[dotfiles](https://github.com/dmentipl/dotfiles)** for macOS or Linux machine with nix.
 - [IMPROVER](https://github.com/metoppv/improver) is a library of algorithms for meteorological post-processing and verification.
-- [MCFOST](https://ipag.osug.fr/~pintec/mcfost/docs/html/overview.html) is a 3D continuum and line radiative transfer code based on the Monte Carlo method (plus ray-tracing).
+- [MCFOST](https://github.com/cpinte/mcfost) is a 3D continuum and line radiative transfer code based on the Monte Carlo method (plus ray-tracing).
 - [Phantom](https://github.com/danieljprice/phantom) is a 3D smoothed particle hydrodynamics and magnetohydrodynamics code for astrophysics.
 - **[phantom-build](https://github.com/dmentipl/phantom-build)** is designed to make building Phantom easier.
 - **[phantom-config](https://github.com/dmentipl/phantom-config)**: parse, convert, modify, and generate Phantom config files.
