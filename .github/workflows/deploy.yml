@@ -19,9 +19,9 @@ jobs:
           pip install -r requirements.txt
       - name: Build the site
         run: |
-          make dirhtml
+          sphinx-build . _build -b dirhtml
       - name: GitHub Pages action
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_build/dirhtml
+          publish_dir: ./_build
