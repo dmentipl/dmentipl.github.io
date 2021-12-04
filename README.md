@@ -4,14 +4,15 @@ My personal website and blog, available at [https://dmentipl.github.io](https://
 
 ## Requirements
 
-The website is built with [Sphinx](https://www.sphinx-doc.org/), [ablog](https://ablog.readthedocs.io/), and [MyST](https://myst-nb.readthedocs.io/) using the [pydata-sphinx-theme](https://pydata-sphinx-theme.readthedocs.io/).
+The website is built with [Sphinx](https://www.sphinx-doc.org/), [ablog](https://ablog.readthedocs.io/), and [MyST](https://myst-parser.readthedocs.io/) using the [pydata-sphinx-theme](https://pydata-sphinx-theme.readthedocs.io/).
 
-Install dependencies. For example in a conda environment.
+Install dependencies in a virtual environment.
 
 ```bash
-conda create --name website python pip
-conda activate website
-pip install -r requirements.txt
+python -m venv .env
+source .env/bin/activate
+python -m pip install --upgrade pip setuptools wheel
+python -m pip install -r requirements.txt -r requirements-dev.txt
 ```
 
 ## Usage
@@ -23,7 +24,7 @@ Instructions for building and viewing the website locally.
 Make changes then build the HTML with Sphinx.
 
 ```bash
-make dirhtml
+sphinx-build . _build -b dirhtml
 ```
 
 ### View
@@ -31,7 +32,7 @@ make dirhtml
 Inspect the output in a web browser.
 
 ```bash
-python -m http.server 8000 --directory _build/dirhtml
+python -m http.server 8000 --directory _build
 ```
 
 ### Autobuild

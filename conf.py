@@ -27,7 +27,7 @@ author = 'Daniel Mentiplay'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    "myst_nb",
+    "myst_parser",
     "ablog",
 ]
 
@@ -38,6 +38,7 @@ templates_path = ['_templates']
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = [
+    '.env',
     '_build',
     'Thumbs.db',
     '.DS_Store',
