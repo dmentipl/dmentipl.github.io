@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'dmentipl'
-copyright = '2021, Daniel Mentiplay'
+copyright = '2021-2022, Daniel Mentiplay'
 author = 'Daniel Mentiplay'
 
 # -- General configuration ---------------------------------------------------
