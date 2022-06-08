@@ -9,8 +9,8 @@ The website is built with [Sphinx](https://www.sphinx-doc.org/), [ablog](https:/
 Install dependencies in a virtual environment.
 
 ```bash
-python -m venv .env
-source .env/bin/activate
+python -m venv .venv
+source .venv/bin/activate
 python -m pip install --upgrade pip setuptools wheel
 python -m pip install -r requirements.txt -r requirements-dev.txt
 ```
