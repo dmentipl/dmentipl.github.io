@@ -75,7 +75,7 @@ html_sidebars = {
     "posts": ['tagcloud.html', 'archives.html'],
     "posts/**": ['postcard.html', 'recentposts.html', 'archives.html'],
 }
-html_last_updated_fmt = '%b %d, %Y'
+html_last_updated_fmt = '%B %d, %Y'
 
 # Blog
 blog_baseurl = "https://dmentipl.github.io"
