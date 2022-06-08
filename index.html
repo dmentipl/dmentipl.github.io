@@ -8,8 +8,9 @@
 
     <title>Daniel Mentiplay &#8212; dmentipl  documentation</title>
     
-  <link href="_static/css/theme.css" rel="stylesheet">
-  <link href="_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
 
     
   <link rel="stylesheet"
@@ -19,15 +20,11 @@
   <link rel="preload" as="font" type="font/woff2" crossorigin
     href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
 
-    
-      
-
-    
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-    <link rel="stylesheet" type="text/css" href="_static/css/blank.css" />
     <link rel="stylesheet" type="text/css" href="_static/custom.css" />
     
-  <link rel="preload" as="script" href="_static/js/index.be7d3bbb2ef33a8344ce.js">
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
 
     <script data-url_root="#" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
@@ -75,7 +72,7 @@
 </style>
 
   </head>
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
     
     <div class="container-fluid" id="banner"></div>
 
@@ -142,7 +139,8 @@
           
             
             <!-- Only show if we have sidebars configured, else just a small margin  -->
-            <div class="col-12 col-md-3 bd-sidebar"><div class="profile-pic"><img src="_static/profile.jpeg" /></div>
+            <div class="col-12 col-md-3 bd-sidebar">
+              <div class="sidebar-start-items"><div class="profile-pic"><img src="_static/profile.jpeg" /></div>
 
 <div class="bio-info">
     <div class="name">
@@ -152,6 +150,9 @@
         Data science and software development
     </div>
 </div>
+              </div>
+              <div class="sidebar-end-items">
+              </div>
             </div>
             
           
@@ -162,7 +163,7 @@
               
               <div class="toc-item">
                 
-<div class="tocsection onthispage pt-5 pb-3">
+<div class="tocsection onthispage mt-5 pt-1 pb-3">
     <i class="fas fa-list"></i> On this page
 </div>
 
@@ -184,7 +185,7 @@
   </a>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#contact">
+  <a class="reference internal nav-link" href="#contact3">
    Contact
   </a>
  </li>
@@ -208,31 +209,31 @@
           <main class="col-12 col-md-9 col-xl-7 py-md-5 pl-md-5 pr-md-4 bd-content" role="main">
               
               <div>
-                 <section class="tex2jax_ignore mathjax_ignore" id="daniel-mentiplay">
-<h1>Daniel Mentiplay<a class="headerlink" href="#daniel-mentiplay" title="Permalink to this headline">¶</a></h1>
+                 <section id="daniel-mentiplay">
+<h1>Daniel Mentiplay<a class="headerlink" href="#daniel-mentiplay" title="Permalink to this headline">#</a></h1>
 <section id="about">
-<h2>About<a class="headerlink" href="#about" title="Permalink to this headline">¶</a></h2>
+<h2>About<a class="headerlink" href="#about" title="Permalink to this headline">#</a></h2>
 <p>I am a data scientist and software developer working at the Bureau of Meteorology, focussing on post-processing numerical weather prediction data.</p>
 <p>I have a PhD in astrophysics from Monash University, where I worked with <a class="reference external" href="https://research.monash.edu/en/persons/daniel-price">Daniel Price</a> and <a class="reference external" href="https://research.monash.edu/en/persons/christophe-pinte">Christophe Pinte</a> using numerical simulations to study protoplanetary discs, the birthplace of planets.</p>
 <p>I’m interested in science, software, and combining them in reproducible and open scientific software development. I have extensive experience in writing scientific software in Python and Fortran.</p>
 </section>
 <section id="software1">
-<h2>Software<a class="footnote-reference brackets" href="#id3" id="id1">1</a><a class="headerlink" href="#software1" title="Permalink to this headline">¶</a></h2>
+<h2>Software<a class="footnote-reference brackets" href="#id4" id="id1">1</a><a class="headerlink" href="#software1" title="Permalink to this headline">#</a></h2>
 <ul class="simple">
-<li><p><strong><a class="reference external" href="https://github.com/dmentipl/dotfiles">dotfiles</a></strong> for macOS or Linux machine with nix.</p></li>
+<li><p><em><a class="reference external" href="https://github.com/dmentipl/dotfiles">dotfiles</a></em> for macOS or Linux machine with nix.</p></li>
 <li><p><a class="reference external" href="https://github.com/metoppv/improver">IMPROVER</a> is a library of algorithms for meteorological post-processing and verification.</p></li>
 <li><p><a class="reference external" href="https://github.com/cpinte/mcfost">MCFOST</a> is a 3D continuum and line radiative transfer code based on the Monte Carlo method (plus ray-tracing).</p></li>
 <li><p><a class="reference external" href="https://github.com/danieljprice/phantom">Phantom</a> is a 3D smoothed particle hydrodynamics and magnetohydrodynamics code for astrophysics.</p></li>
-<li><p><strong><a class="reference external" href="https://github.com/dmentipl/phantom-build">phantom-build</a></strong> is designed to make building Phantom easier.</p></li>
-<li><p><strong><a class="reference external" href="https://github.com/dmentipl/phantom-config">phantom-config</a></strong>: parse, convert, modify, and generate Phantom config files.</p></li>
-<li><p><strong><a class="reference external" href="https://github.com/dmentipl/plonk">Plonk</a></strong> is a Python tool for analysis and visualization of smoothed particle hydrodynamics data with a focus on astrophysical fluid dynamics.</p></li>
-<li><p><strong><a class="reference external" href="https://github.com/dmentipl/sph-interp">sph-interp</a></strong>: Smoothed particle hydrodynamics interpolation to a grid.</p></li>
+<li><p><em><a class="reference external" href="https://github.com/dmentipl/phantom-build">phantom-build</a></em> is designed to make building Phantom easier.</p></li>
+<li><p><em><a class="reference external" href="https://github.com/dmentipl/phantom-config">phantom-config</a></em>: parse, convert, modify, and generate Phantom config files.</p></li>
+<li><p><em><a class="reference external" href="https://github.com/dmentipl/plonk">Plonk</a></em> is a Python tool for analysis and visualization of smoothed particle hydrodynamics data with a focus on astrophysical fluid dynamics.</p></li>
+<li><p><em><a class="reference external" href="https://github.com/dmentipl/sph-interp">sph-interp</a></em>: Smoothed particle hydrodynamics interpolation to a grid.</p></li>
 </ul>
 </section>
 <section id="research2">
-<h2>Research<a class="footnote-reference brackets" href="#id4" id="id2">2</a><a class="headerlink" href="#research2" title="Permalink to this headline">¶</a></h2>
+<h2>Research<a class="footnote-reference brackets" href="#id5" id="id2">2</a><a class="headerlink" href="#research2" title="Permalink to this headline">#</a></h2>
 <ul class="simple">
-<li><p><em><strong>Smoothed particle hydrodynamics modelling of dusty protoplanetary discs (2021)</strong></em> [<a class="reference external" href="https://bridges.monash.edu/articles/thesis/Smoothed_particle_hydrodynamics_modelling_of_dusty_protoplanetary_discs/13834760">DOI</a>]</p></li>
+<li><p><strong>Smoothed particle hydrodynamics modelling of dusty protoplanetary discs (2021)</strong> [<a class="reference external" href="https://bridges.monash.edu/articles/thesis/Smoothed_particle_hydrodynamics_modelling_of_dusty_protoplanetary_discs/13834760">DOI</a>]</p></li>
 <li><p><strong>A smoothed particle hydrodynamics algorithm for multigrain dust with separate sets of particles (2020)</strong> [<a class="reference external" href="https://arxiv.org/abs/2010.06074">arXiv</a>, <a class="reference external" href="https://doi.org/10.1093/mnras/staa3171">DOI</a>, <a class="reference external" href="https://github.com/dmentipl/multigrain">GitHub</a>]</p></li>
 <li><p>Nine Localized Deviations from Keplerian Rotation in the DSHARP Circumstellar Disks: Kinematic Evidence for Protoplanets Carving the Gaps (2020) [<a class="reference external" href="https://arxiv.org/abs/2001.07720">arXiv</a>, <a class="reference external" href="https://doi.org/10.3847/2041-8213/ab6dda">DOI</a>]</p></li>
 <li><p>Flybys in protoplanetary discs – II. Observational signatures (2020) [<a class="reference external" href="https://arxiv.org/abs/1910.06822">arXiv</a>, <a class="reference external" href="https://doi.org/10.1093/mnras/stz2938">DOI</a>, <a class="reference external" href="https://github.com/dmentipl/flyby-observational-signatures">GitHub</a>]</p></li>
@@ -246,8 +247,8 @@
 <li><p>Phantom: A Smoothed Particle Hydrodynamics and Magnetohydrodynamics Code for Astrophysics (2018) [<a class="reference external" href="https://arxiv.org/abs/1702.03930">arXiv</a>, <a class="reference external" href="https://doi.org/10.1017/pasa.2018.25">DOI</a>, <a class="reference external" href="https://github.com/danieljprice/phantom">GitHub</a>]</p></li>
 </ul>
 </section>
-<section id="contact">
-<h2>Contact<a class="headerlink" href="#contact" title="Permalink to this headline">¶</a></h2>
+<section id="contact3">
+<h2>Contact<a class="footnote-reference brackets" href="#id6" id="id3">3</a><a class="headerlink" href="#contact3" title="Permalink to this headline">#</a></h2>
 <ul class="simple">
 <li><p><a href = "mailto:daniel.mentiplay@protonmail.com">Email</a></p></li>
 <li><p><a class="reference external" href="https://github.com/dmentipl">GitHub</a></p></li>
@@ -259,11 +260,14 @@
 </div>
 <hr class="footnotes docutils" />
 <dl class="footnote brackets">
-<dt class="label" id="id3"><span class="brackets"><a class="fn-backref" href="#id1">1</a></span></dt>
-<dd><p>Lead developer in <strong><code class="docutils literal notranslate"><span class="pre">bold</span></code></strong>.</p>
+<dt class="label" id="id4"><span class="brackets"><a class="fn-backref" href="#id1">1</a></span></dt>
+<dd><p>Lead developer in <em><code class="docutils literal notranslate"><span class="pre">italic</span></code></em>.</p>
 </dd>
-<dt class="label" id="id4"><span class="brackets"><a class="fn-backref" href="#id2">2</a></span></dt>
-<dd><p>First-author papers in <strong><code class="docutils literal notranslate"><span class="pre">bold</span></code></strong>; thesis in <em><code class="docutils literal notranslate"><span class="pre">italic</span></code></em>.</p>
+<dt class="label" id="id5"><span class="brackets"><a class="fn-backref" href="#id2">2</a></span></dt>
+<dd><p>Lead author in <strong><code class="docutils literal notranslate"><span class="pre">bold</span></code></strong>.</p>
+</dd>
+<dt class="label" id="id6"><span class="brackets"><a class="fn-backref" href="#id3">3</a></span></dt>
+<dd><p>Pronouns: he/him.</p>
 </dd>
 </dl>
 </section>
@@ -282,7 +286,8 @@
       </div>
     </div>
   
-  <script src="_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
 <footer class="footer mt-5 mt-md-0">
   <div class="container">
     
@@ -294,7 +299,7 @@
     
     <div class="footer-item">
       <p class="last-updated">
-Last updated on Dec 04, 2021.<br>
+Last updated on Jun 08, 2022.<br>
 </p>
     </div>
     

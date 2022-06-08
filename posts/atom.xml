@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://dmentipl.github.io</id>
   <title>Daniel Mentiplay</title>
-  <updated>2021-12-04T04:43:52.761231+00:00</updated>
+  <updated>2022-06-08T00:11:29.752939+00:00</updated>
   <link href="https://dmentipl.github.io"/>
   <link href="https://dmentipl.github.io/posts/atom.xml" rel="self"/>
-  <generator uri="https://ablog.readthedocs.org/" version="0.10.21">ABlog</generator>
+  <generator uri="https://ablog.readthedocs.org/" version="0.10.25">ABlog</generator>
   <entry>
     <id>https://dmentipl.github.io/posts/2021-04-23-hello-world/</id>
     <title>Hello world</title>
@@ -13,7 +13,9 @@
     <author>
       <name>Daniel Mentiplay</name>
     </author>
-    <content type="html">&lt;p&gt;Here’s my new website built in Python with Sphinx, ablog, and MyST using the pydata-sphinx-theme. It’s based on Chris Holdgraf’s website: &lt;a class="reference external" href="https://predictablynoisy.com/"&gt;https://predictablynoisy.com/&lt;/a&gt;. The old one was built using the Python static site generator Nikola.&lt;/p&gt;
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;Here’s my new website built in Python with Sphinx, ablog, and MyST using the pydata-sphinx-theme. It’s based on Chris Holdgraf’s website: &lt;a class="reference external" href="https://predictablynoisy.com/"&gt;https://predictablynoisy.com/&lt;/a&gt;. The old one was built using the Python static site generator Nikola.&lt;/p&gt;
+&lt;/div&gt;
 </content>
     <link href="https://dmentipl.github.io/posts/2021-04-23-hello-world/" rel="alternate"/>
     <summary>Here’s my new website built in Python with Sphinx, ablog, and MyST using the pydata-sphinx-theme. It’s based on Chris Holdgraf’s website: https://predictablynoisy.com/. The old one was built using the Python static site generator Nikola.</summary>

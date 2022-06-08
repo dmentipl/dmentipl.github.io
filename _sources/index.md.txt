@@ -10,22 +10,18 @@ I'm interested in science, software, and combining them in reproducible and open
 
 ## Software[^1]
 
-[^1]: Lead developer in **`bold`**.
-
-- **[dotfiles](https://github.com/dmentipl/dotfiles)** for macOS or Linux machine with nix.
+- *[dotfiles](https://github.com/dmentipl/dotfiles)* for macOS or Linux machine with nix.
 - [IMPROVER](https://github.com/metoppv/improver) is a library of algorithms for meteorological post-processing and verification.
 - [MCFOST](https://github.com/cpinte/mcfost) is a 3D continuum and line radiative transfer code based on the Monte Carlo method (plus ray-tracing).
 - [Phantom](https://github.com/danieljprice/phantom) is a 3D smoothed particle hydrodynamics and magnetohydrodynamics code for astrophysics.
-- **[phantom-build](https://github.com/dmentipl/phantom-build)** is designed to make building Phantom easier.
-- **[phantom-config](https://github.com/dmentipl/phantom-config)**: parse, convert, modify, and generate Phantom config files.
-- **[Plonk](https://github.com/dmentipl/plonk)** is a Python tool for analysis and visualization of smoothed particle hydrodynamics data with a focus on astrophysical fluid dynamics.
-- **[sph-interp](https://github.com/dmentipl/sph-interp)**: Smoothed particle hydrodynamics interpolation to a grid.
+- *[phantom-build](https://github.com/dmentipl/phantom-build)* is designed to make building Phantom easier.
+- *[phantom-config](https://github.com/dmentipl/phantom-config)*: parse, convert, modify, and generate Phantom config files.
+- *[Plonk](https://github.com/dmentipl/plonk)* is a Python tool for analysis and visualization of smoothed particle hydrodynamics data with a focus on astrophysical fluid dynamics.
+- *[sph-interp](https://github.com/dmentipl/sph-interp)*: Smoothed particle hydrodynamics interpolation to a grid.
 
 ## Research[^2]
 
-[^2]: First-author papers in **`bold`**; thesis in *`italic`*.
-
-- ***Smoothed particle hydrodynamics modelling of dusty protoplanetary discs (2021)*** [[DOI](https://bridges.monash.edu/articles/thesis/Smoothed_particle_hydrodynamics_modelling_of_dusty_protoplanetary_discs/13834760)]
+- **Smoothed particle hydrodynamics modelling of dusty protoplanetary discs (2021)** [[DOI](https://bridges.monash.edu/articles/thesis/Smoothed_particle_hydrodynamics_modelling_of_dusty_protoplanetary_discs/13834760)]
 - **A smoothed particle hydrodynamics algorithm for multigrain dust with separate sets of particles (2020)** [[arXiv](https://arxiv.org/abs/2010.06074), [DOI](https://doi.org/10.1093/mnras/staa3171), [GitHub](https://github.com/dmentipl/multigrain)]
 - Nine Localized Deviations from Keplerian Rotation in the DSHARP Circumstellar Disks: Kinematic Evidence for Protoplanets Carving the Gaps (2020) [[arXiv](https://arxiv.org/abs/2001.07720), [DOI](https://doi.org/10.3847/2041-8213/ab6dda)]
 - Flybys in protoplanetary discs – II. Observational signatures (2020) [[arXiv](https://arxiv.org/abs/1910.06822), [DOI](https://doi.org/10.1093/mnras/stz2938), [GitHub](https://github.com/dmentipl/flyby-observational-signatures)]
@@ -38,7 +34,7 @@ I'm interested in science, software, and combining them in reproducible and open
 - Circumbinary, not transitional: on the spiral arms, cavity, shadows, fast radial flows, streamers, and horseshoe in the HD 142527 disc (2018) [[arXiv](https://arxiv.org/abs/1803.02484), [DOI](https://doi.org/10.1093/mnras/sty647)]
 - Phantom: A Smoothed Particle Hydrodynamics and Magnetohydrodynamics Code for Astrophysics (2018) [[arXiv](https://arxiv.org/abs/1702.03930), [DOI](https://doi.org/10.1017/pasa.2018.25), [GitHub](https://github.com/danieljprice/phantom)]
 
-## Contact
+## Contact[^3]
 
 - <a href = "mailto:daniel.mentiplay@protonmail.com">Email</a>
 - [GitHub](https://github.com/dmentipl)
@@ -51,3 +47,7 @@ I'm interested in science, software, and combining them in reproducible and open
 :hidden:
 posts
 ```
+
+[^1]: Lead developer in *`italic`*.
+[^2]: Lead author in **`bold`**.
+[^3]: Pronouns: he/him.
