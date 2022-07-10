@@ -1,4 +1,0 @@
-ablog
-myst_parser
-pydata-sphinx-theme
-sphinx

@@ -1,3 +1,2 @@
-.venv
-.envrc
-_build
+public/
+.hugo_build.lock
