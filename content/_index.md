@@ -40,8 +40,8 @@ Lead author denoted by (*).
 
 Collections of recipes.
 
-- [Cocktails](https://dmentipl.github.io/cocktails)
-- [Recipes](https://dmentipl.github.io/recipes)
+- [Cocktails](https://dmentipl.github.io/recipes/drink)
+- [Recipes](https://dmentipl.github.io/recipes/eat)
 
 ## Contact
 
