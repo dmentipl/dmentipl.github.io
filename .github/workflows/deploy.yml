@@ -16,7 +16,9 @@ jobs:
         with:
           hugo-version: '0.91.2'
       - name: Build the site
-        run: hugo --minify
+        run: |
+          hugo --minify
+          cp CNAME public
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/main' }}
