@@ -38,7 +38,7 @@ Lead author denoted by (*).
 
 ## Misc
 
-Collections of [recipes](https://dmentipl.github.io/recipes/) for food and drink.
+Collections of [recipes](https://recipes.danielmentiplay.com) for food and drink.
 
 ## Contact
 

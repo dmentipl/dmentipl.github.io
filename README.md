@@ -1,6 +1,6 @@
-# Daniel Mentiplay (@dmentipl)
+# Daniel Mentiplay
 
-My personal website and blog written in markdown and generated with Hugo. Currently hosted on GitHub at <https://dmentipl.github.io>.
+My personal website and blog written in markdown and generated with Hugo.
 
 ## Requirements
 
