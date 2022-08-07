@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://dmentipl.github.io/sitemap.xml
+Sitemap: https://danielmentiplay.com/sitemap.xml
