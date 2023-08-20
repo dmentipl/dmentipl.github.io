@@ -42,6 +42,4 @@ Collections of [recipes](https://recipes.danielmentiplay.com) for food and drink
 
 ## Contact
 
-Pronouns: he/him.
-
 [Email](mailto:daniel.mentiplay@mailbox.org) | [Figshare](https://figshare.com/authors/Daniel_Mentiplay/7505300) | [GitHub](https://github.com/dmentipl) | [GitLab](https://gitlab.com/dmentipl) | [ORCID](https://orcid.org/0000-0002-5526-8798) | [Scholar](https://scholar.google.com.au/citations?user=BNWvllgAAAAJ) | [SourceHut](https://git.sr.ht/~dmentipl/)
