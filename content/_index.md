@@ -1,6 +1,6 @@
 ## About
 
-I am a scientific software engineer at the Bureau of Meteorology, working on post-processing numerical weather prediction data.
+I am a research scientist at the Bureau of Meteorology, working on post-processing numerical weather prediction data within the [IMPROVER](https://github.com/metoppv/improver) collaboration.
 
 I have a PhD in astrophysics from Monash University, where I worked with [Daniel Price](https://research.monash.edu/en/persons/daniel-price) and [Christophe Pinte](https://research.monash.edu/en/persons/christophe-pinte) using numerical simulations to study protoplanetary discs, the birthplace of planets.
 
