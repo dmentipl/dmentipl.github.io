@@ -2,7 +2,7 @@
 
 I am a research scientist at the Bureau of Meteorology, working on post-processing numerical weather prediction data within the [IMPROVER](https://github.com/metoppv/improver) collaboration.
 
-I have a PhD in astrophysics from Monash University, where I worked with [Daniel Price](https://research.monash.edu/en/persons/daniel-price) and [Christophe Pinte](https://research.monash.edu/en/persons/christophe-pinte) using numerical simulations to study protoplanetary discs, the birthplace of planets.
+I have a PhD in astrophysics from Monash University, where I worked with Daniel Price and Christophe Pinte using numerical simulations to study protoplanetary discs, the birthplace of planets.
 
 I'm interested in science, software, and combining them in reproducible and open scientific software development. I have extensive experience in writing scientific software in Python and Fortran.
 
@@ -22,6 +22,7 @@ Lead developer denoted by (*).
 
 Lead author denoted by (*).
 
+- RainForests: A Machine Learning Approach to Calibrating NWP Precipitation Forecasts [[DOI](https://doi.org/10.1175/WAF-D-23-0211.1)]
 - Smoothed particle hydrodynamics modelling of dusty protoplanetary discs (2021) [[DOI](https://bridges.monash.edu/articles/thesis/Smoothed_particle_hydrodynamics_modelling_of_dusty_protoplanetary_discs/13834760)] (*)
 - A smoothed particle hydrodynamics algorithm for multigrain dust with separate sets of particles (2020) [[arXiv](https://arxiv.org/abs/2010.06074), [DOI](https://doi.org/10.1093/mnras/staa3171), [code](https://github.com/dmentipl/multigrain)] (*)
 - Nine Localized Deviations from Keplerian Rotation in the DSHARP Circumstellar Disks: Kinematic Evidence for Protoplanets Carving the Gaps (2020) [[arXiv](https://arxiv.org/abs/2001.07720), [DOI](https://doi.org/10.3847/2041-8213/ab6dda)]
@@ -37,8 +38,8 @@ Lead author denoted by (*).
 
 ## Misc
 
-Collection of [recipes](https://recipes.danielmentiplay.com) and [cocktails](https://cocktails.danielmentiplay.com).
+Collection of [cocktail recipes](https://cocktails.danielmentiplay.com).
 
 ## Contact
 
-[Email](mailto:daniel.mentiplay@mailbox.org) | [Figshare](https://figshare.com/authors/Daniel_Mentiplay/7505300) | [GitHub](https://github.com/dmentipl) | [GitLab](https://gitlab.com/dmentipl) | [ORCID](https://orcid.org/0000-0002-5526-8798) | [Scholar](https://scholar.google.com.au/citations?user=BNWvllgAAAAJ) | [SourceHut](https://git.sr.ht/~dmentipl/)
+[Email](mailto:daniel.mentiplay@mailbox.org) | [Figshare](https://figshare.com/authors/Daniel_Mentiplay/7505300) | [GitHub](https://github.com/dmentipl) | [GitLab](https://gitlab.com/dmentipl) | [ORCID](https://orcid.org/0000-0002-5526-8798) | [Scholar](https://scholar.google.com.au/citations?user=BNWvllgAAAAJ)
