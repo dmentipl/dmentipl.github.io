@@ -22,7 +22,7 @@ Lead developer denoted by (*).
 
 Lead author denoted by (*).
 
-- RainForests: A Machine Learning Approach to Calibrating NWP Precipitation Forecasts [[DOI](https://doi.org/10.1175/WAF-D-23-0211.1)]
+- RainForests: A Machine Learning Approach to Calibrating NWP Precipitation Forecasts (2024) [[DOI](https://doi.org/10.1175/WAF-D-23-0211.1)]
 - Smoothed particle hydrodynamics modelling of dusty protoplanetary discs (2021) [[DOI](https://bridges.monash.edu/articles/thesis/Smoothed_particle_hydrodynamics_modelling_of_dusty_protoplanetary_discs/13834760)] (*)
 - A smoothed particle hydrodynamics algorithm for multigrain dust with separate sets of particles (2020) [[arXiv](https://arxiv.org/abs/2010.06074), [DOI](https://doi.org/10.1093/mnras/staa3171), [code](https://github.com/dmentipl/multigrain)] (*)
 - Nine Localized Deviations from Keplerian Rotation in the DSHARP Circumstellar Disks: Kinematic Evidence for Protoplanets Carving the Gaps (2020) [[arXiv](https://arxiv.org/abs/2001.07720), [DOI](https://doi.org/10.3847/2041-8213/ab6dda)]
